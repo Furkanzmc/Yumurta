@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/RefreshButton.qml</file>
+        <file>qml/Egg.qml</file>
+        <file>js/Utils.js</file>
+        <file>qml/EggDrop.qml</file>
+        <file>qml/Slider.qml</file>
+        <file>qml/Button.qml</file>
+        <file>qml/TimerLabel.qml</file>
+    </qresource>
+</RCC>
